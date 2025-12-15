@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python,html,css,java script**
+- 🌱 I’m currently learning **python,html,css,java script,React Js**
 
-- 💬 Ask me about **python,javascript and SQL**
+- 💬 Ask me about **python,javascript,React js and SQL**
 
 - 📫 How to reach me **chukkaprasad34@gmail.com**
 
